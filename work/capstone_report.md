@@ -1,5 +1,7 @@
-# Capstone Report — Content Decline Prediction
-
+---
+title: Capstone Report — Content Decline Prediction
+permalink: /capstone-report/
+---
 - **Author:** Karim Yasser
 - **Lane:** Machine Learning — Content Performance and Search Discoverability
 - **Repo:** https://github.com/karim-yasser/flyrank-ml-internship
